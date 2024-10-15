@@ -6,7 +6,7 @@ package com.mycompany.arrays;
 
 /**
  *
- * @author RC_Student_lab
+ * @author TimmyNgove
  */
 public class Arrays {
 
